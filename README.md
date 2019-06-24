@@ -1,3 +1,1 @@
-# hello-world
-First reppository
-Learning 
+READ ME
